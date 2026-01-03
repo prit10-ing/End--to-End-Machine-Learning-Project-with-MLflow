@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: ml_project
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/prit10-ing/End-to-end-ML-Project-with-MLflow
+Author: prit10-ing
+Author-email: priteshingle7@gmail.com
+Project-URL: Bug Tracker, https://github.com/prit10-ing/End-to-end-ML-Project-with-MLflow/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# End--to-End-Machine-Learning-Project-with-MLflow
